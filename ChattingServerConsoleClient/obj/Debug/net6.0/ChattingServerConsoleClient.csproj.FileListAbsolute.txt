@@ -1,0 +1,14 @@
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\bin\Debug\net6.0\ChattingServerConsoleClient.exe
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\bin\Debug\net6.0\ChattingServerConsoleClient.deps.json
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\bin\Debug\net6.0\ChattingServerConsoleClient.runtimeconfig.json
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\bin\Debug\net6.0\ChattingServerConsoleClient.dll
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\bin\Debug\net6.0\ChattingServerConsoleClient.pdb
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.AssemblyInfoInputs.cache
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.AssemblyInfo.cs
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.csproj.CoreCompileInputs.cache
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.dll
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\refint\ChattingServerConsoleClient.dll
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.pdb
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ChattingServerConsoleClient.genruntimeconfig.cache
+D:\project\ChattingServerConsoleClient\ChattingServerConsoleClient\obj\Debug\net6.0\ref\ChattingServerConsoleClient.dll
